@@ -72,7 +72,7 @@ If you'd like to contribute to this project, you can follow these steps:
 
 ## Credits
 
-The Dish Recommender System is developed by [Your Name](https://github.com/your-username). The dataset used in the system is sourced from [source-of-dataset](https://github.com/source-of-dataset).
+The Dish Recommender System is developed by [Hemalatha T](https://github.com/HemalathaT2). The dataset used in the system is sourced from [Kaggle](https://www.kaggle.com/datasets/kishanpahadiya/indian-food-and-its-recipes-dataset-with-images).
 
 ## License
 
